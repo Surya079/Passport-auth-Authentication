@@ -62,7 +62,7 @@ Copy code
 npm install
 Set up the database:
 
-Create a PostgreSQL database and user, and ensure the user has appropriate privileges. Note down the database name, username, and password for configuration.
+<!-- Create a PostgreSQL database and user, and ensure the user has appropriate privileges. Note down the database name, username, and password for configuration.
 
 Configuration
 Create a .env file in the root directory and add the following environment variables:
@@ -130,4 +130,4 @@ GET /protected
 This route is protected and requires authentication. It can be accessed only after logging in.
 
 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details. -->
